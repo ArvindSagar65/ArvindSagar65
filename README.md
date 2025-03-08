@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here's a quick snapshot of who I am and what I'm up to.
 
 <!-- Animated greeting -->
-![Ts pmo](https://tenor.com/hN6xEjNbwuT.gif)
+![Ts pmo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhrajZ5cm0zOWFuZmVvYXF1eG5maDE4cGt1eXc1cXhjczVwbGFpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1f70lx63HB9QHvTI0Z/giphy.gif)
 
 ## 🚀 About Me
 
