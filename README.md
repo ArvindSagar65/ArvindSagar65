@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here's a quick snapshot of who I am and what I'm up to.
 
 <!-- Animated greeting -->
-![Ts pmo](https://tenor.com/view/druski-druski-dance-kai-cenat-gif-6415788372471391141)
+![Ts pmo](https://tenor.com/hN6xEjNbwuT.gif)
 
 ## 🚀 About Me
 
