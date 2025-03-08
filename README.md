@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here's a quick snapshot of who I am and what I'm up to.
 
 <!-- Animated greeting -->
-![Hello](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+![Ts pmo](https://tenor.com/view/druski-druski-dance-kai-cenat-gif-6415788372471391141)
 
 ## 🚀 About Me
 
