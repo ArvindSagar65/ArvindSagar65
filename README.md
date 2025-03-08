@@ -41,8 +41,7 @@ I'm a passionate software developer with a focus on creating innovative solution
 
 You can connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/arvindsagar/)
-- [Twitter](https://twitter.com/ArvindSagar_)
+- https://www.linkedin.com/in/arvind-sagar-a03162293/
 
 ## 🎯 Currently Working On
 
